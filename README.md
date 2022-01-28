@@ -269,4 +269,4 @@ You can find CCNY’s Acedemic Integrity Policy in full [here](https://www.ccny.
 
 ## contact and questions
 
-Please e-mail me - I am available for your questions! I try to respond within 24 hours. You are also invited to schedule some virtual office hour times to talk
+Please e-mail me - I am available for your questions! I try to respond within 24 hours. You are also invited to schedule some virtual office hour time to talk, [here](https://www.cal.com/mab253). If you need a time that's not on this schedule, please e-mail me.
