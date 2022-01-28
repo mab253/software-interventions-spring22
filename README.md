@@ -90,7 +90,10 @@ for next class: \
 **Week 4: Feb. 21: NO CLASS MONDAY**
 
 **Readings for the week:** 
+  - "Hypertext", from _Broad Band_, Claire Evans (will post pages)
+  - "Introduction" from _Glitch Feminism_, Legacy Russell (will post pages)
   - Introduction and Chapter 1, _Towards a New Architecture_, Le Courbusier (will post pages)
+  - Code Video (TBD)
 
 for next class: \
 **Assignment:** TBD
@@ -104,7 +107,7 @@ for next class: \
   - ["The Iowa caucus smartphone app disaster, explained"](https://www.vox.com/recode/2020/2/4/21122211/iowa-caucus-smartphone-app-disaster-explained), S. Morrison, _The Verge_
 
 for next class: \
-**Assignment:** TBD
+**Assignment:** communications API experiment
 
 ---
 
@@ -115,7 +118,7 @@ for next class: \
   - TBD
 
 for next class: \
-**Assignment:** TBD
+**Assignment:** communications API experiment
 
 ---
 
@@ -127,7 +130,7 @@ for next class: \
   - TBD
 
 for next class: \
-**Assignment:** TBD
+**Assignment:** Write project log #3
 
 ---
 
@@ -138,7 +141,7 @@ for next class: \
   - "Resource One" from _Broad Band_, Claire Evans, p. 95-108 (will post pages)
 
 for next class: \
-**Assignment:** TBD
+**Assignment:** chatbot experiment
 
 ---
 
@@ -149,7 +152,7 @@ for next class: \
   - TBD
 
 for next class: \
-**Assignment:** TBD
+**Assignment:** Write project log #4; prepare to share in-progress project ideas
 
 ---
 
@@ -160,7 +163,7 @@ for next class: \
   - TBD
 
 for next class: \
-**Assignment:** TBD
+**Assignment:** Write project log #5
 
 ---
 
@@ -171,7 +174,7 @@ for next class: \
   - TBD
 
 for next class: \
-**Assignment:** TBD
+**Assignment:** Write project log #6
 
 ---
 
@@ -195,7 +198,7 @@ for next class: \
 *Data Collection and Security*
 
 **Readings due today:** 
-  - TBD
+  - "Glitch Encrypts," from _Glitch Feminism_, Legacy Russell (will post pages) 
 
 for next class: \
 **Assignment:** TBD
