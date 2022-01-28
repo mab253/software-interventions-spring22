@@ -29,7 +29,7 @@ This course will meet *online only*. It will be both technical (code, design) an
 
 Our main goal is to create proposals for your final projects - we’ll be studying a lot of different case studies and examples in order to give you ideas, and solving lots of small problems and building prototypes together, but you’ll need to be thinking about your larger senior project throughout the semester. 
 
-**More description of the final project expectations to come.** It could be in any language, using any methodology that you want, and you can either work on your own or with up to 3 total students as a team. We will have the proposals and groups set by the end of this semester, and next semester we will work on the build.
+**More description of the final project to come.** It could be in any language, using any methodology that you want, and you can either work on your own or with up to 3 total students as a team. We will have the proposals and groups set by the end of this semester, and next semester we will work on the build.
 
 
 ## important info:
@@ -47,174 +47,189 @@ Our main goal is to create proposals for your final projects - we’ll be studyi
 
 **Week 1: Jan. 31** \
 *Introductions, Interventions* \
-going through syllabus (hello!), "do no harm"
+going through syllabus (hello!), intros to each other, & "do no harm"
 
 for next class \
-**Assignment:** complete class survey \
-**Reading:** 
-  - [Critical Engineering Manifesto](https://criticalengineering.org/), Oliver, Savičić, Vasiliev
-  - [Disruption, a manifesto](https://logicmag.io/intelligence/disruption-a-manifesto/), editors of Logic Magazine
-  - [It's not all lightbulbs](https://aeon.co/essays/most-of-the-time-innovators-don-t-move-fast-and-break-things), W. Patrick McCray
+**Assignment:** complete class survey; "hello world" post on Glitch blog
 
 ---
 
 **Week 2: Feb. 7** \
 *Prototypes, Hacks, and Distributed Architectures*
 
+**Readings due today:** 
+  - [Critical Engineering Manifesto](https://criticalengineering.org/), Oliver, Savičić, Vasiliev
+  - [Disruption, a manifesto](https://logicmag.io/intelligence/disruption-a-manifesto/), editors of Logic Magazine
+  - [It's not all lightbulbs](https://aeon.co/essays/most-of-the-time-innovators-don-t-move-fast-and-break-things), W. Patrick McCray
+  
+
 for next class: \
-**Assignment:** complete class survey \
-**Reading:** 
-  - TBD
+**Assignment:** Write project log post #1
 
 ---
 
 **Week 3: Feb. 14** \
-*The Internet's Public Infrastructure*
+*Software as Public Space/time*
+
+**Readings due today:** 
+  - [Spatial Software](https://darkblueheaven.com/spatialsoftware/), John Palmer
+  - [Web Design: The First 100 Years](https://idlewords.com/talks/web_design_first_100_years.htm), Maciej Cegłowski
+  - [Quantum Black Futures](https://www.youtube.com/watch?v=Fd1LHsnlVC8&t=2583s), Rasheedah Phillips [video, 15 min.]
 
 for next class: \
-**Assignment:** complete class survey \
-**Reading:** 
-  - TBD
+**Assignment:** Write project log post #2
+
+**Additional References:**
+- [How I Experience Web Today](https://how-i-experience-web-today.com/) [click around & explore!]
+- [Gossip's Web: directory of handmade web pages](https://gossipsweb.net/)
+- [Wayback Machine](https://archive.org/web/), Internet Archive
+
 
 ---
 
-**Feb. 21: NO CLASS**
+**Week 4: Feb. 21: NO CLASS MONDAY**
 
-**Assignment:** complete class survey \
-**Reading:** 
-  - TBD
+**Readings for the week:** 
+  - Introduction and Chapter 1, _Towards a New Architecture_, Le Courbusier (will post pages)
+
+for next class: \
+**Assignment:** TBD
 
 ---
 
-**Week 4: Feb. 28** \
+**Week 5: Feb. 28** \
 *Politics, Tech, Communications*  
 
+**Readings due today:** 
+  - ["The Iowa caucus smartphone app disaster, explained"](https://www.vox.com/recode/2020/2/4/21122211/iowa-caucus-smartphone-app-disaster-explained), S. Morrison, _The Verge_
+
 for next class: \
-**Assignment:** complete class survey \
-**Reading:** 
-  - TBD
+**Assignment:** TBD
 
 ---
 
-**Week 5: Mar. 7** \
+**Week 6: Mar. 7** \
 *On Surveillance and Social Movements*
 
-for next class: \
-**Assignment:** complete class survey \
-**Reading:** 
+**Readings due today:** 
   - TBD
+
+for next class: \
+**Assignment:** TBD
 
 ---
 
 
-**Week 6: Mar. 14** \
-*Tech & Emergency: Mutual Aid Interventions*
+**Week 7: Mar. 14** \
+*DIY Emergency: Tech & Mutual Aid*
+
+**Readings due today:** 
+  - TBD
 
 for next class: \
-**Assignment:** complete class survey \
-**Reading:** 
-  - TBD
+**Assignment:** TBD
 
 ---
 
-**Week 7: Mar. 21** \
-*Unblocking the System: Automation, Part I*
+**Week 8: Mar. 21** \
+*Unblocking the System: Automations and Chatbots*
+
+**Readings due today:** 
+  - "Resource One" from _Broad Band_, Claire Evans, p. 95-108 (will post pages)
 
 for next class: \
-**Assignment:** complete class survey \
-**Reading:** 
-  - TBD
+**Assignment:** TBD
 
 ---
 
-**Week 7: Mar. 21** \
-*Unblocking the System: Automation, Part I*
+**Week 9: Mar. 28** \
+*Open Science*
+
+**Readings due today:** 
+  - TBD
 
 for next class: \
-**Assignment:** complete class survey \
-**Reading:** 
-  - TBD
+**Assignment:** TBD
 
 ---
 
-**Week 8: Mar. 28** \
-*Automation Revisited: Chatbots*
+**Week 10: Apr. 4** \
+*Project Ideas Feedback Workshop*
+
+**Readings due today:** 
+  - TBD
 
 for next class: \
-**Assignment:** complete class survey \
-**Reading:** 
-  - TBD
+**Assignment:** TBD
 
 ---
 
-**Week 9: Apr. 4** \
-*Immersion and Storytelling*
+**Week 11: Apr. 11** \
+*Digital Divide and Accessibility*
 
-for next class: \
-**Assignment:** complete class survey \
-**Reading:** 
+**Readings due today:** 
   - TBD
 
----
-
-**Week 10: Apr. 11** \
-*Open Data & Cartography*
-
 for next class: \
-**Assignment:** complete class survey \
-**Reading:** 
-  - TBD
+**Assignment:** TBD
 
 ---
 
 **NO CLASS Apr. 18, SPRING RECESS**
 
-**Week 11: Apr. 25** \
-*Digital Divide and Accessibility*
+---
+
+**Week 12: Apr. 25** \
+*Open Data, Open Storage?* \
+**PROJECT FORMATION (TOPIC/GROUP) DUE!** 
+
+**Readings due today:** 
+  - TBD
 
 for next class: \
-**Assignment:** complete class survey \
-**Reading:** 
-  - TBD
+**Assignment:** TBD
 
 ---
 
-**Week 12: May 2** \
-*Data Collection and Security *
+**Week 13: May 2** \
+*Data Collection and Security*
+
+**Readings due today:** 
+  - TBD
 
 for next class: \
-**Assignment:** complete class survey \
-**Reading:** 
-  - TBD
+**Assignment:** TBD
 
 ---
 
-**Week 13: May 9** \
-*TBD *
+**Week 14: May 9** \
+*Blueprints, Diagrams, and Architectures*
+
+**Readings due today:** 
+  - TBD
 
 for next class: \
-**Assignment:** complete class survey \
-**Reading:** 
-  - TBD
+**Assignment:** TBD
 
 ---
 
-**Week 14: May 16** \
-*TBD *
+**Week 15: May 16** \
+*Final Project Workshop*
 
-for next class: \
-**Assignment:** complete class survey \
-**Reading:** 
-  - TBD
+**Assignment:** working on final project \
+**FINAL PROJECT PROPOSAL DUE: May 24th 12pm EST**
 
 ---
-
 
 ## key dates
+- April 4th, share ideas-in-progress for final, feedback day
+- April 25th, team (or solo) formation for final and project topic, due by end of class 
+- May 16th, final project workshop
+- May 24th, final project proposal due 
 
 ## materials and references
 
-All course material will be linked via the Blackboard and the Github here. There will be helpful links and extra references listed every week, beyond the required materials. There will be no textbook for this course other than what's linked here.
+All course material will be linked via Blackboard and Github (here). There will be helpful links and extra references listed every week, beyond the required materials. There will be no textbook for this course other than what's linked here.
 
 ## tools we will use a lot
 - Github: please get a free account, [here](https://www.github.com)
@@ -223,12 +238,12 @@ All course material will be linked via the Blackboard and the Github here. There
 - Blackboard 
 - Node.js, npm
 
-We will use other software development kits (SDKs), APIs, places to meet and collaborate online, etc. throughout the course. This will be noted in specific weeks. 
+We will use other software development kits (SDKs), APIs, tools, places to meet and collaborate online, etc. throughout the course. This will be noted in specific weeks. 
 
 ## expectations and requirements  
 
 - class attendence and punctuality
-- participate actively in lecture with questions, and discussion - "step up, step back" or "move up, move up" 
+- participate actively in lecture with questions, and discussion - "step up, step back" or ["move up, move up"](https://www.nasco.coop/sites/default/files/srl/AORTA%20Meeting%20Facilitation%20Resource%20Sheet%20July%202014.pdf)
 - we'll be sharing and critiquing each others' work - try to be honest and friendly, open and respectful when giving & receiving feedback
 
 This class is an inclusive and harassment-free space for everyone, with no tolerations of discimination based on gender, race, sexual orientation, religion, disability, or appearance. Please feel free to let me know privately if you have an academic accommodation.
@@ -248,9 +263,9 @@ weekly assignments:
 
 ## academic honesty and integrity:
 
-Plagiarism is presenting someone else’s work as your own.  Please be mindful of your references, both when you are writing in sentences and writing in code: Stack Overflow is a great resource, but your code cannot be copied and pasted for your assignments. Your work for proposals and written assignments must include citations when you are referencing others' work. 
+Plagiarism is "the act of presenting another person's ideas, research or writings as your own." [(CUNY)](https://www.ccny.cuny.edu/it/academic-integrity-policy). [see what I did there ...?] **In all seriousness:** *please be mindful and cite your references*, both when you are writing in sentences and writing in code: Stack Overflow is a great resource, but your code cannot be copied and pasted for your assignments. Your work for proposals and written assignments must include citations when you are referencing others' work. 
 
-You can find CCNY’s Acedemic Integrity Policy [here](https://www.ccny.cuny.edu/it/academic-integrity-policy).  Do not plagiarize. 
+You can find CCNY’s Acedemic Integrity Policy in full [here](https://www.ccny.cuny.edu/it/academic-integrity-policy).  Do not plagiarize. 
 
 ## contact and questions
 
