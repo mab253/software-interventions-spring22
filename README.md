@@ -171,7 +171,7 @@ for next class: \
 *Digital Divide and Accessibility*
 
 **Readings due today:** 
-  - TBD
+  - from _Design Justice_, Sasha Constanza-Chock (will post pages)
 
 for next class: \
 **Assignment:** Write project log #6
