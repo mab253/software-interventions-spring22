@@ -69,7 +69,7 @@ for next class: \
 ---
 
 **Week 3: Feb. 14** \
-*Software as Public Space/time*
+*Software as Public Space/time Infrastructure*
 
 **Readings due today:** 
   - [Spatial Software](https://darkblueheaven.com/spatialsoftware/), John Palmer
