@@ -232,7 +232,7 @@ for next class: \
 
 ## materials and references
 
-All course material will be linked via Blackboard and Github (here). There will be helpful links and extra references listed every week, beyond the required materials. There will be no textbook for this course other than what's linked here.
+All course material will be linked via Blackboard and Github (here). There will be helpful links and extra references listed every week, beyond the required materials, that are not required but could be helpful. There will be no textbook for this course other than what's linked here. I will post the readings at least 2 weeks in advance, but if you look far ahead you might see some "TBDs."
 
 ## tools we will use a lot
 - Github: please get a free account, [here](https://www.github.com)
