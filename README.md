@@ -22,7 +22,7 @@
 ## course format
 
 This course will meet *online only*. It will be both technical (code, design) and conceptual (some reading, writing, discussion).  Each week we will have:
-- short readings or videos on a theme, to be completed before class (estimated time: 1 hour)
+- short readings or videos on a theme, to be completed before class (estimated time: 45 min.)
 - a lecture in class, with discussion
 - a code lab or discussion activity in class (group work)
 - written or code assignment for next class
@@ -98,7 +98,6 @@ for next class: \
 - ["The app that broke the Iowa Caucuses was sent out through beta testing platforms"](https://www.theverge.com/2020/2/4/21122737/iowa-democractic-caucus-voting-app-android-testfairy-screenshots-app-store), N. Statt, _The Verge_
 - ["Here's the Shadow Inc. App that Failed in Iowa Last Night"](https://www.vice.com/en/article/y3m33x/heres-the-shadow-inc-app-that-failed-in-iowa-last-night), Koebler, Maiberg, _Motherboard_
 - [WhatsApp’s Influence in the Brazilian Election and How It Helped Jair Bolsonaro Win](https://www.cfr.org/blog/whatsapps-influence-brazilian-election-and-how-it-helped-jair-bolsonaro-win), Caio C. V. Machado _CFR Blog_
-- Rafaela Nakano, The revolution that never came: the truck drivers’ strike in Brazil from within a WhatsApp group (video, link to come)
 
 for next class: \
 **Assignment:** communications API experiment 
@@ -136,7 +135,6 @@ for next class: \
 - [Hacking and Hustling, Disorganizing Toolkit](https://hackinghustling.org/research-2/disorganizing-toolkit/)
 
 ---
-
 
 **Week 7: Mar. 14** \
 *Unblocking the System: Automations and Chatbots*
