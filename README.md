@@ -8,11 +8,11 @@
 
 ## course description
 
-*In this two semester senior design course, we will explore and interrogate examples of software as intervention. We will investigate the ethics of automation, scale, data collection, and data security, examining case studies of technology’s role in various fields, from physical sciences to politics, social justice, and the arts. We will use contemporary tools for rapid prototyping, including serverless architecture and modular development. Student projects will take original ideas through the phases of research, systems design, and prototype.* 
+*In this two semester senior design course, we will explore and interrogate examples of software as intervention - how does software act in the world? How does what we build as software engineers interact with systems that already exist? How might software change those systems? We will investigate the ethics of automation, scale, data collection, and data security, examining case studies of technology’s role in various fields, from physical sciences to politics, social justice, and the arts. We will use contemporary tools for rapid prototyping, including serverless architecture and modular development. Student projects will take original ideas through the phases of research, systems design, and prototype.* 
 
 ## what will we learn in this class?
 - how to think critically about technology while we build it 
-- how technology affects change in the world (hint: sometimes unexpected ways, unintended consquences) 
+- how technology affects change in the world (hint: sometimes unexpected ways, with unintended consquences) 
 - how to make rapid prototypes with contemporary tools to test our ideas 
 - how to design systems with many moving parts, and think about how people fit into these systems 
 - how to work together: iteration, collaboration 
@@ -22,14 +22,14 @@
 ## course format
 
 This course will meet *online only*. It will be both technical (code, design) and conceptual (some reading, writing, discussion).  Each week we will have:
-- short readings or videos on a theme, to be completed before class
+- short readings or videos on a theme, to be completed before class (estimated time: 1 hour)
 - a lecture in class, with discussion
 - a code lab or discussion activity in class (group work)
 - written or code assignment for next class
 
-Our main goal is to create proposals for your final projects - we’ll be studying a lot of different case studies and examples in order to give you ideas, and solving lots of small problems and building prototypes together, but you’ll need to be thinking about your larger senior project throughout the arc of the first semester. 
+Our main goal is to create proposals for your final projects. We’ll be examining many different case studies and examples in order to generate ideas, solving lots of small problems and building prototypes together - but you’ll need to be thinking about your larger senior project throughout the arc of the first semester. 
 
-**More description of the final project to come.** It could be in any language, using any methodology that you want, and you can either work on your own or with up to 3 total students as a team. We will have the proposals and any teams set by the end of this semester, and next semester we will work on the build. Your project proposal is this first semester's final project.
+Your final project could be in any language, using any methodology that you want, and you can either work on your own or as a team (3 students max). You will determine your topic and team by the end of this semester, and next semester we will work on the build. Your project proposal is this first semester's final project. Further description and requirements for the final project proposal will be clarified throughout the course. 
 
 
 ## important info:
@@ -43,7 +43,7 @@ Our main goal is to create proposals for your final projects - we’ll be studyi
 
 ## SCHEDULE, ASSIGNMENTS, READINGS:
 
-💥*subject to change a bit*
+💥*subject to change*
 
 **Week 1: Jan. 31** \
 *Introductions, Interventions* \
@@ -264,11 +264,11 @@ We will use other software development kits (SDKs), APIs, tools, places to meet 
 
 ## expectations and requirements  
 
-- class attendence and punctuality
-- participate actively in lecture with questions, and discussion - "step up, step back" or ["move up, move up"](https://www.nasco.coop/sites/default/files/srl/AORTA%20Meeting%20Facilitation%20Resource%20Sheet%20July%202014.pdf)
+- class attendence and punctuality: please come prepared and on-time for every class. 
+- participate actively in lecture with questions, and discussion - ["move up, move up"](https://www.nasco.coop/sites/default/files/srl/AORTA%20Meeting%20Facilitation%20Resource%20Sheet%20July%202014.pdf)
 - we'll be sharing and critiquing each others' work - try to be honest and friendly, open and respectful when giving & receiving feedback
 
-This class is an inclusive and harassment-free space for everyone, with no tolerations of discimination based on gender, race, sexual orientation, religion, disability, or appearance. Please feel free to let me know privately if you have an academic accommodation.
+This class is an inclusive and harassment-free space for everyone, with no tolerations of discimination based on gender, race, sexual orientation, religion, disability, or appearance. Please feel free to let me know privately if you require an academic accommodation.
 
 ## evaluation:
 Grading breakdown:
@@ -277,9 +277,9 @@ Grading breakdown:
 - Final Project Proposal: 40%
 
 weekly assignments: 
-- weekly assignments must be turned in by the next class, so 6:30pm Monday EST.
+- weekly assignments must be turned in _before_ the next class: this means **5:00pm Monday EST.**
 - weekly assignments are more for participation than in-depth feedback
-- many of your weekly assignments are to help you prepare for your final proposal
+- your weekly assignments are to help you prepare for your final proposal
 - any late assignments = drop 10% per day
 - you get to drop your worst assignment grade if you need to
 
