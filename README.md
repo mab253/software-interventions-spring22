@@ -112,9 +112,9 @@ for next class: \
 *On Surveillance, Resistance, and Social Movements*  
 
 **Readings due today:** 
+- ["Of Being Numerous"](https://reallifemag.com/of-being-numerous/), Natasha Lennard, _Real Life_
 - "Introduction" from _Glitch Feminism_, Legacy Russell (will post pages)
-- video, "Digital Derive" from Theorizing the Web conference (will post)
-- video II, from Theorizing the Web conference (will post)
+- video, from Theorizing the Web conference (will post)
 
 for next class: \
 **Assignment:** Write project log #3
@@ -125,11 +125,15 @@ for next class: \
 *DIY Emergency: Tech & Mutual Aid*
 
 **Readings due today:** 
-  - ["Of Being Numerous"](https://reallifemag.com/of-being-numerous/), Natasha Lennard, _Real Life_
-  - mutual aid tech zine (will post)
+
+- mutual aid tech zine (will post)
+- video, from Theorizing the Web conference (will post)
 
 for next class: \
 **Assignment:** simplest project prototypes
+
+**Additional Resources:** \
+- [Hacking and Hustling, Disorganizing Toolkit](https://hackinghustling.org/research-2/disorganizing-toolkit/)
 
 ---
 
@@ -247,7 +251,7 @@ for next class: \
 
 ## materials and references
 
-All course material will be linked via Blackboard and Github (here). There will be helpful links and extra references listed every week, beyond the required materials, that are not required but could be helpful. There will be no textbook for this course other than what's linked here. I will post the readings at least 2 weeks in advance, but if you look far ahead you might see some "TBDs."
+All course material will be linked via Blackboard and Github (here). There will be helpful links and extra references listed every week, beyond the required materials, that are not required but could be helpful. There will be no textbook for this course other than what's linked here. I will post the readings at least 2 weeks in advance, but if you look far ahead you might see some "TBDs." I will also post any lecture material (slides, links, etc.) in a folder in this repo called `\lectures`.
 
 ## tools we will use a lot
 - Github: please get a free account, [here](https://www.github.com)
