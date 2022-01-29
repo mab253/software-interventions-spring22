@@ -132,7 +132,7 @@ for next class: \
 for next class: \
 **Assignment:** simplest project prototypes
 
-**Additional Resources:** \
+**Additional Resources:** 
 - [Hacking and Hustling, Disorganizing Toolkit](https://hackinghustling.org/research-2/disorganizing-toolkit/)
 
 ---
