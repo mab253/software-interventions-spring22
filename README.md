@@ -50,7 +50,7 @@ Our main goal is to create proposals for your final projects - we’ll be studyi
 going through syllabus (hello!), intros to each other, & "do no harm"
 
 for next class \
-**Assignment:** complete class survey; "hello world" post on Glitch blog
+**Assignment:** complete [class survey](https://airtable.com/shr0QCUjVo0Ne7M3d); "hello world" post on Glitch blog
 
 ---
 
@@ -89,11 +89,12 @@ for next class: \
 
 **Week 4: Feb. 21: NO CLASS MONDAY**
 
+- Asynchronous Lecture Video (TBD)
+
 **Readings for the week:** 
   - "Hypertext", from _Broad Band_, Claire Evans (will post pages)
   - "Introduction" from _Glitch Feminism_, Legacy Russell (will post pages)
   - Introduction and Chapter 1, _Towards a New Architecture_, Le Courbusier (will post pages)
-  - Code Video (TBD)
 
 for next class: \
 **Assignment:** TBD
@@ -105,9 +106,14 @@ for next class: \
 
 **Readings due today:** 
   - ["The Iowa caucus smartphone app disaster, explained"](https://www.vox.com/recode/2020/2/4/21122211/iowa-caucus-smartphone-app-disaster-explained), S. Morrison, _The Verge_
+  - [WhatsApp’s Influence in the Brazilian Election and How It Helped Jair Bolsonaro Win](https://www.cfr.org/blog/whatsapps-influence-brazilian-election-and-how-it-helped-jair-bolsonaro-win), Caio C. V. Machado _CFR Blog_
+  - Rafaela Nakano, The revolution that never came: the truck drivers’ strike in Brazil from within a WhatsApp group (video, link to come)
 
 for next class: \
 **Assignment:** communications API experiment
+
+**Additional References:**
+- [Computational Power: Automated Use of WhatsApp in the Elections](https://feed.itsrio.org/computational-power-automated-use-of-whatsapp-in-the-elections-59f62b857033), ITS - Rio de Janeiro 
 
 ---
 
@@ -115,7 +121,7 @@ for next class: \
 *On Surveillance and Social Movements*
 
 **Readings due today:** 
-  - TBD
+  - https://www.youtube.com/watch?v=mYaJQAhUEM4
 
 for next class: \
 **Assignment:** communications API experiment
