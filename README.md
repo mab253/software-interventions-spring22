@@ -8,7 +8,7 @@
 
 ## course description
 
-*In this senior design course, we will explore and interrogate examples of software as intervention. We will investigate the ethics of automation, scale, data collection, and data security, examining case studies of technology’s role in various fields, from physical sciences to politics, social justice, and the arts. We will use contemporary tools for rapid prototyping, including serverless architecture and modular development. Student projects will take original ideas through the phases of research, systems design, and prototype.* 
+*In this two semester senior design course, we will explore and interrogate examples of software as intervention. We will investigate the ethics of automation, scale, data collection, and data security, examining case studies of technology’s role in various fields, from physical sciences to politics, social justice, and the arts. We will use contemporary tools for rapid prototyping, including serverless architecture and modular development. Student projects will take original ideas through the phases of research, systems design, and prototype.* 
 
 ## what will we learn in this class?
 - how to think critically about technology while we build it 
@@ -17,19 +17,19 @@
 - how to design systems with many moving parts, and think about how people fit into these systems 
 - how to work together: iteration, collaboration 
 - how to get comfortable reading documentation and using new tools quickly
-- how to use the tools that you have learned to create your own project 
+- how to use the tools that you have learned to build your own creative project 
 
 ## course format
 
 This course will meet *online only*. It will be both technical (code, design) and conceptual (some reading, writing, discussion).  Each week we will have:
-- short readings on a theme, to be completed before class
+- short readings or videos on a theme, to be completed before class
 - a lecture in class, with discussion
 - a code lab or discussion activity in class (group work)
-- assignment for next class
+- written or code assignment for next class
 
-Our main goal is to create proposals for your final projects - we’ll be studying a lot of different case studies and examples in order to give you ideas, and solving lots of small problems and building prototypes together, but you’ll need to be thinking about your larger senior project throughout the semester. 
+Our main goal is to create proposals for your final projects - we’ll be studying a lot of different case studies and examples in order to give you ideas, and solving lots of small problems and building prototypes together, but you’ll need to be thinking about your larger senior project throughout the arc of the first semester. 
 
-**More description of the final project to come.** It could be in any language, using any methodology that you want, and you can either work on your own or with up to 3 total students as a team. We will have the proposals and groups set by the end of this semester, and next semester we will work on the build.
+**More description of the final project to come.** It could be in any language, using any methodology that you want, and you can either work on your own or with up to 3 total students as a team. We will have the proposals and any teams set by the end of this semester, and next semester we will work on the build. Your project proposal is this first semester's final project.
 
 
 ## important info:
@@ -61,7 +61,6 @@ for next class \
   - [Critical Engineering Manifesto](https://criticalengineering.org/), Oliver, Savičić, Vasiliev
   - [Disruption, a manifesto](https://logicmag.io/intelligence/disruption-a-manifesto/), editors of Logic Magazine
   - [It's not all lightbulbs](https://aeon.co/essays/most-of-the-time-innovators-don-t-move-fast-and-break-things), W. Patrick McCray
-  
 
 for next class: \
 **Assignment:** Write project log post #1
@@ -69,118 +68,125 @@ for next class: \
 ---
 
 **Week 3: Feb. 14** \
-*Software as Public Space/time Infrastructure*
+*Software as Public Infrastructure*
 
 **Readings due today:** 
-  - [Spatial Software](https://darkblueheaven.com/spatialsoftware/), John Palmer
+  - "Hypertext", from _Broad Band_, Claire Evans (will post pages)
+  - "[Information Management: A Proposal](https://www.w3.org/History/1989/proposal.html), Tim Berners-Lee
   - [Web Design: The First 100 Years](https://idlewords.com/talks/web_design_first_100_years.htm), Maciej Cegłowski
-  - [Quantum Black Futures](https://www.youtube.com/watch?v=Fd1LHsnlVC8&t=2583s), Rasheedah Phillips [video, 15 min.]
 
 for next class: \
 **Assignment:** Write project log post #2
 
 **Additional References:**
 - [How I Experience Web Today](https://how-i-experience-web-today.com/) [click around & explore!]
+- [Spatial Software](https://darkblueheaven.com/spatialsoftware/), John Palmer
 - [Gossip's Web: directory of handmade web pages](https://gossipsweb.net/)
 - [Wayback Machine](https://archive.org/web/), Internet Archive
 
 
+
 ---
 
-**Week 4: Feb. 21: NO CLASS MONDAY**
+**Week 4: Feb. 21: NO CLASS MONDAY, HOLIDAY** \
+*Automated Communications, Political Implications* 
 
-- Asynchronous Lecture Video (TBD)
+- Asynchronous Lecture Video (will be posted; watch any day this week)
 
 **Readings for the week:** 
-  - "Hypertext", from _Broad Band_, Claire Evans (will post pages)
-  - "Introduction" from _Glitch Feminism_, Legacy Russell (will post pages)
-  - Introduction and Chapter 1, _Towards a New Architecture_, Le Courbusier (will post pages)
+- ["The app that broke the Iowa Caucuses was sent out through beta testing platforms"](https://www.theverge.com/2020/2/4/21122737/iowa-democractic-caucus-voting-app-android-testfairy-screenshots-app-store), N. Statt, _The Verge_
+- ["Here's the Shadow Inc. App that Failed in Iowa Last Night"](https://www.vice.com/en/article/y3m33x/heres-the-shadow-inc-app-that-failed-in-iowa-last-night), Koebler, Maiberg, _Motherboard_
+- [WhatsApp’s Influence in the Brazilian Election and How It Helped Jair Bolsonaro Win](https://www.cfr.org/blog/whatsapps-influence-brazilian-election-and-how-it-helped-jair-bolsonaro-win), Caio C. V. Machado _CFR Blog_
+- Rafaela Nakano, The revolution that never came: the truck drivers’ strike in Brazil from within a WhatsApp group (video, link to come)
 
 for next class: \
-**Assignment:** TBD
+**Assignment:** communications API experiment 
 
----
-
-**Week 5: Feb. 28** \
-*Politics, Tech, Communications*  
-
-**Readings due today:** 
-  - ["The Iowa caucus smartphone app disaster, explained"](https://www.vox.com/recode/2020/2/4/21122211/iowa-caucus-smartphone-app-disaster-explained), S. Morrison, _The Verge_
-  - [WhatsApp’s Influence in the Brazilian Election and How It Helped Jair Bolsonaro Win](https://www.cfr.org/blog/whatsapps-influence-brazilian-election-and-how-it-helped-jair-bolsonaro-win), Caio C. V. Machado _CFR Blog_
-  - Rafaela Nakano, The revolution that never came: the truck drivers’ strike in Brazil from within a WhatsApp group (video, link to come)
-
-for next class: \
-**Assignment:** communications API experiment
-
-**Additional References:**
+**Additional References:** 
 - [Computational Power: Automated Use of WhatsApp in the Elections](https://feed.itsrio.org/computational-power-automated-use-of-whatsapp-in-the-elections-59f62b857033), ITS - Rio de Janeiro 
 
 ---
 
-**Week 6: Mar. 7** \
-*On Surveillance and Social Movements*
+**Week 5: Feb. 28** \
+*On Surveillance, Resistance, and Social Movements*  
 
 **Readings due today:** 
-  - https://www.youtube.com/watch?v=mYaJQAhUEM4
-
-for next class: \
-**Assignment:** communications API experiment
-
----
-
-
-**Week 7: Mar. 14** \
-*DIY Emergency: Tech & Mutual Aid*
-
-**Readings due today:** 
-  - TBD
+- "Introduction" from _Glitch Feminism_, Legacy Russell (will post pages)
+- video, "Digital Derive" from Theorizing the Web conference (will post)
+- video II, from Theorizing the Web conference (will post)
 
 for next class: \
 **Assignment:** Write project log #3
 
 ---
 
-**Week 8: Mar. 21** \
+**Week 6: Mar. 7** \
+*DIY Emergency: Tech & Mutual Aid*
+
+**Readings due today:** 
+  - ["Of Being Numerous"](https://reallifemag.com/of-being-numerous/), Natasha Lennard, _Real Life_
+  - mutual aid tech zine (will post)
+
+for next class: \
+**Assignment:** simplest project prototypes
+
+---
+
+
+**Week 7: Mar. 14** \
 *Unblocking the System: Automations and Chatbots*
 
 **Readings due today:** 
-  - "Resource One" from _Broad Band_, Claire Evans, p. 95-108 (will post pages)
+  - "Resource One" from _Broad Band_, Claire Evans (will post pages)
+  - [ELIZA](https://web.njit.edu/~ronkowit/eliza.html)
+  - on automation (will post)
 
 for next class: \
-**Assignment:** chatbot experiment
+**Assignment:** Write project log #4, prototype & project validation
 
 ---
 
-**Week 9: Mar. 28** \
-*Open Science*
-
-**Readings due today:** 
-  - TBD
-
-for next class: \
-**Assignment:** Write project log #4; prepare to share in-progress project ideas
-
----
-
-**Week 10: Apr. 4** \
+**Week 8: Mar. 21** \
 *Project Ideas Feedback Workshop*
-
-**Readings due today:** 
-  - TBD
 
 for next class: \
 **Assignment:** Write project log #5
 
 ---
 
-**Week 11: Apr. 11** \
-*Digital Divide and Accessibility*
+**Week 9: Mar. 28** \
+*Automation Revisited; Project Work Day*
+
+**Readings due today:** 
+  - TBD
+
+for next class: \
+**Assignment:** Finalize project topic and group (if collaborating)  
+
+---
+
+**Week 10: Apr. 4** \
+*Digital Divide and Accessibility* \
+**PROJECT FORMATION (TOPIC/GROUP) DUE!**
 
 **Readings due today:** 
   - from _Design Justice_, Sasha Constanza-Chock (will post pages)
+  - video from Eyebeam, Refiguring the Future (will post)
 
 for next class: \
-**Assignment:** Write project log #6
+**Assignment:** Write project log #7
+
+---
+
+**Week 11: Apr. 11** \
+*Blueprints, Diagrams, and Architectures*
+
+**Readings due today:** 
+  - Introduction from _Towards a New Architecture_, Le Courbusier (will post pages)
+  - on serverless architecture (will post)
+
+for next class: \
+**Assignment:** architecture diagram assignment 
 
 ---
 
@@ -189,36 +195,37 @@ for next class: \
 ---
 
 **Week 12: Apr. 25** \
-*Open Data, Open Storage?* \
-**PROJECT FORMATION (TOPIC/GROUP) DUE!** 
+*Open Data, Open Storage?* 
 
 **Readings due today:** 
+  - from Signal Blog: [the ecosystem is moving](https://signal.org/blog/the-ecosystem-is-moving/) 
   - TBD
 
 for next class: \
-**Assignment:** TBD
+**Assignment:** storage experiment
 
 ---
 
 **Week 13: May 2** \
-*Data Collection and Security*
+*Data Collection*
 
 **Readings due today:** 
   - "Glitch Encrypts," from _Glitch Feminism_, Legacy Russell (will post pages) 
+  - video, Mimi Onuoha [!! Con Keynote, on Data](https://www.youtube.com/watch?v=zYpXdtWj7BY)  
 
 for next class: \
-**Assignment:** TBD
+**Assignment:** Write project log #8
 
 ---
 
 **Week 14: May 9** \
-*Blueprints, Diagrams, and Architectures*
+*Data Security*
 
 **Readings due today:** 
-  - TBD
+  - TBD 
 
 for next class: \
-**Assignment:** TBD
+**Assignment:** Write project log #9
 
 ---
 
@@ -231,8 +238,8 @@ for next class: \
 ---
 
 ## key dates
-- April 4th, share ideas-in-progress for final, feedback day
-- April 25th, team (or solo) formation for final and project topic, due by end of class 
+- March 21st, share ideas-in-progress for final, feedback workshop
+- April 4th, team (or solo) formation for final and project topic, due by end of class 
 - May 16th, final project workshop
 - May 24th, final project proposal due 
 
