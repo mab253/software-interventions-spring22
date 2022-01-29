@@ -92,6 +92,7 @@ for next class: \
 *Automated Communications, Political Implications* 
 
 - Asynchronous Lecture Video (will be posted; watch any day this week)
+- video will include instructions on API experiment assignment
 
 **Readings for the week:** 
 - ["The app that broke the Iowa Caucuses was sent out through beta testing platforms"](https://www.theverge.com/2020/2/4/21122737/iowa-democractic-caucus-voting-app-android-testfairy-screenshots-app-store), N. Statt, _The Verge_
