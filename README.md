@@ -179,14 +179,15 @@ for next class: \
 ---
 
 **Week 11: Apr. 11** \
-*Blueprints, Diagrams, and Architectures*
+*Blueprints, Systems, and Architectures*
 
 **Readings due today:** 
   - Introduction from _Towards a New Architecture_, Le Courbusier (will post pages)
+  - on cybernetics, systems thinking (will post)
   - on serverless architecture (will post)
 
 for next class: \
-**Assignment:** architecture diagram assignment 
+**Assignment:** diagram assignment 
 
 ---
 
