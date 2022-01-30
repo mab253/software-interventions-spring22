@@ -235,7 +235,7 @@ for next class: \
 *Final Project Workshop*
 
 **Assignment:** working on final project \
-**FINAL PROJECT PROPOSAL DUE: May 20th 12pm EST**
+**FINAL PROJECT PROPOSAL DUE: Friday May 20th, 12pm EST**
 
 ---
 
