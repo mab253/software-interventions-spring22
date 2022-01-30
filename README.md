@@ -201,7 +201,7 @@ for next class: \
 
 **Readings due today:** 
   - from Signal Blog: [the ecosystem is moving](https://signal.org/blog/the-ecosystem-is-moving/) 
-  - TBD
+  - Bourdieu, TBD
 
 for next class: \
 **Assignment:** storage experiment
