@@ -235,7 +235,7 @@ for next class: \
 *Final Project Workshop*
 
 **Assignment:** working on final project \
-**FINAL PROJECT PROPOSAL DUE: May 24th 12pm EST**
+**FINAL PROJECT PROPOSAL DUE: May 20th 12pm EST**
 
 ---
 
@@ -243,7 +243,7 @@ for next class: \
 - March 21st, share ideas-in-progress for final, feedback workshop
 - April 4th, team (or solo) formation for final and project topic, due by end of class 
 - May 16th, final project workshop
-- May 24th, final project proposal due 
+- May 20th, final project proposal due 
 
 ## materials and references
 
