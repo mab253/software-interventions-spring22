@@ -8,7 +8,7 @@
 
 ## course description
 
-*In this two semester senior design course, we will explore and interrogate examples of software as intervention - how does software act in the world? How does what we build as software engineers interact with systems that already exist? How might software change those systems, and how do these questions factor into software design? We will investigate the ethics of automation, scale, data collection, and data security, examining case studies of technology’s role in various fields, from physical sciences to politics, social justice, and the arts. We will use contemporary tools for rapid prototyping, including serverless architecture and modular development. Student projects will take original ideas through the phases of research, systems design, and prototype.* 
+*In this two semester senior design course, we will explore and interrogate examples of software as intervention - how does software act in the world? How does what we build as software engineers interact with or 'intervene' in systems that already exist? How might software change those systems, and how do these questions factor into software design? We will investigate the ethics of automation, scale, data collection, and data security, examining case studies of technology’s role in various fields, from physical sciences to politics, social justice, and the arts. We will use contemporary tools for rapid prototyping, including serverless architecture and modular development. Student projects will take original ideas through the phases of research, systems design, and prototype.* 
 
 ## what will we learn in this class?
 - how to think critically about technology while we build it 
