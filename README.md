@@ -177,7 +177,7 @@ for next class: \
   - video from Eyebeam, Refiguring the Future (will post)
 
 for next class: \
-**Assignment:** Write project log #7
+**Assignment:** Write project log #6
 
 ---
 
@@ -218,7 +218,7 @@ for next class: \
   - video, Mimi Onuoha [!! Con Keynote, on Data](https://www.youtube.com/watch?v=zYpXdtWj7BY)  
 
 for next class: \
-**Assignment:** Write project log #8
+**Assignment:** Write project log #7
 
 ---
 
@@ -229,7 +229,7 @@ for next class: \
   - TBD 
 
 for next class: \
-**Assignment:** Write project log #9
+**Assignment:** Write project log #8
 
 ---
 
