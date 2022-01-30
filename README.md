@@ -72,7 +72,7 @@ for next class: \
 
 **Readings due today:** 
   - "Hypertext", from _Broad Band_, Claire Evans (will post pages)
-  - "[Information Management: A Proposal](https://www.w3.org/History/1989/proposal.html), Tim Berners-Lee
+  - [Information Management: A Proposal](https://www.w3.org/History/1989/proposal.html), Tim Berners-Lee
   - [Web Design: The First 100 Years](https://idlewords.com/talks/web_design_first_100_years.htm), Maciej Cegłowski
 
 for next class: \
@@ -141,7 +141,6 @@ for next class: \
 
 **Readings due today:** 
   - "Resource One" from _Broad Band_, Claire Evans (will post pages)
-  - [ELIZA](https://web.njit.edu/~ronkowit/eliza.html)
   - on automation (will post)
 
 for next class: \
@@ -186,8 +185,7 @@ for next class: \
 
 **Readings due today:** 
   - Introduction from _Towards a New Architecture_, Le Courbusier (will post pages)
-  - on cybernetics, systems thinking (will post)
-  - on serverless architecture (will post)
+  - on cybernetics, systems thinking, and serverless architecture (will post)
 
 for next class: \
 **Assignment:** diagram assignment 
