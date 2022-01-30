@@ -247,7 +247,7 @@ for next class: \
 
 ## materials and references
 
-All course material will be linked via Blackboard and Github (here). There will be helpful links and extra references listed every week, beyond the required materials, that are not required but could be helpful. There will be no textbook for this course other than what's linked here. I will post the readings at least 2 weeks in advance, but if you look far ahead you might see some "TBDs." I will also post any lecture material (slides, links, etc.) in a folder in this repo called `/lectures`. Information and instructions for any assigments will be in a folder called `/assignments`.
+All course material will be linked via Blackboard and Github (here). There will be extra links and further references listed every week, beyond the required materials, that might be helpful to you. There will be no textbook for this course other than what's linked here. I will post the readings at least 2 weeks in advance, but if you look far ahead you might see some "TBDs." I will also post any lecture material (slides, links, etc.) in a folder in this repo called `/lectures`. Information and instructions for any assigments will be in a folder called `/assignments`.
 
 ## tools we will use a lot
 - Github: please get a free account, [here](https://www.github.com)
@@ -270,7 +270,7 @@ This class is an inclusive and harassment-free space for everyone, with no toler
 ## evaluation:
 Grading breakdown:
 - Participation/Attendance: 25%
-- Weekly Assignments: 30%
+- Weekly Assignments: 35%
 - Final Project Proposal: 40%
 
 weekly assignments: 
