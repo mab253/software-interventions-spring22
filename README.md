@@ -174,6 +174,7 @@ for next class: \
 **Readings due today:** 
   - from _Design Justice_, Sasha Constanza-Chock (will post pages)
   - video from Eyebeam, Refiguring the Future (will post)
+  - video [garden.local](http://distributedweb.care/posts/gardenlocal/), Distributed Web of Care
 
 for next class: \
 **Assignment:** Write project log #6
