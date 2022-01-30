@@ -262,7 +262,7 @@ We will use other software development kits (SDKs), APIs, tools, places to meet 
 
 - class attendence and punctuality: please come prepared and on-time for every class. 
 - participate actively in lecture with questions, and discussion - ["move up, move up"](https://www.nasco.coop/sites/default/files/srl/AORTA%20Meeting%20Facilitation%20Resource%20Sheet%20July%202014.pdf)
-- if you know you are going to miss class, please e-mail me. Attending and participating in every class counts towards your final grade (see below).
+- if you know you are going to miss class, please e-mail me. Attending and participating in every class counts towards your final grade (see below). Lateness beyond 20 minutes is considered an absence.
 - we'll be sharing and critiquing each others' work - try to be honest and friendly, open and respectful when giving & receiving feedback
 
 This class is an inclusive and harassment-free space for everyone, with no tolerations of discimination based on gender, race, sexual orientation, religion, disability, or appearance. Please feel free to let me know privately if you require an academic accommodation.
