@@ -12,7 +12,7 @@
 
 ## what will we learn in this class?
 - how to think critically about technology while we build it 
-- how technology affects change in the world (hint: sometimes unexpected ways, with unintended consquences) 
+- how technology affects change in the world (hint: sometimes unexpected ways, with unintended consequences) 
 - how to make rapid prototypes with contemporary tools to test our ideas 
 - how to design systems with many moving parts, and think about how people fit into these systems 
 - how to work together: iteration, collaboration 
