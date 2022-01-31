@@ -50,7 +50,8 @@ Your final project could be in any language, using any methodology that you want
 going through syllabus (hello!), intros to each other, & "do no harm"
 
 for next class \
-**Assignment:** complete [class survey](https://airtable.com/shr0QCUjVo0Ne7M3d); "hello world" post on Glitch blog
+**Assignment:** complete [class survey](https://airtable.com/shr0QCUjVo0Ne7M3d); "hello world" post on Glitch blog \
+**DUE: Thursday, Feb. 3rd 5:00pm EST
 
 ---
 
@@ -275,7 +276,7 @@ Grading breakdown:
 - Final Project Proposal: 40%
 
 weekly assignments: 
-- weekly assignments must be turned in _before_ the next class: this means **5:00pm Monday EST.**
+- weekly assignments must be turned in _before_ the next class: this means **5:00pm Monday EST** - unless specifically noted otherwise
 - weekly assignments are more for participation than in-depth feedback
 - your weekly assignments are to help you prepare for your final proposal
 - any late assignments = drop 10% per day
