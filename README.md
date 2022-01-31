@@ -51,7 +51,7 @@ going through syllabus (hello!), intros to each other, & "do no harm"
 
 for next class \
 **Assignment:** complete [class survey](https://airtable.com/shr0QCUjVo0Ne7M3d); "hello world" post on Glitch blog \
-**DUE: Thursday, Feb. 3rd 5:00pm EST
+**DUE: Thursday, Feb. 3rd 5:00pm EST**
 
 ---
 
