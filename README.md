@@ -4,7 +4,7 @@
 **Term:** Spring 2022 \
 **Time:** Mondays 6:30pm-9:00pm \
 **Office Hours:** Tues/Thurs. by appointment, [schedule here](https://www.cal.com/mab253) \
-**E-mail:** `mab253@protonmail.com` (CUNY e-mail coming soon!)
+**E-mail:** `mblount@ccny.cuny.edu` 
 
 ## course description
 
