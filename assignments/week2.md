@@ -10,4 +10,4 @@ For 1 of these ideas, how might the ideas in the [Critical Engineering Manifesto
 
 For the other idea, what are some examples of event-driven functions that could operate within your design? Try and list at least 3.
 
-* also - did you want to customize your 11ty site a little bit more?
+also - did you want to customize your 11ty site a little bit more? optional!
