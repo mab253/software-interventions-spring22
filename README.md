@@ -71,7 +71,7 @@ for next class: \
 *Software as Public Infrastructure*
 
 **Readings due today:** 
-  - "Hypertext", from _Broad Band_, Claire Evans, p.153-174 ([pdf here](https://github.com/mab253/software-interventions-spring22/blob/8f03678433fc55c8d65f5d9315af5f6c6743acdf/readings/BroadBand-Evans_Hypertext.pdf))
+  - "Hypertext", from _Broad Band_, Claire Evans, p.153-174 ([pdf here](https://raw.githubusercontent.com/mab253/software-interventions-spring22/8f03678433fc55c8d65f5d9315af5f6c6743acdf/readings/BroadBand-Evans_Hypertext.pdf))
   - [Information Management: A Proposal](https://www.w3.org/History/1989/proposal.html), Tim Berners-Lee
   - [Web Design: The First 100 Years](https://idlewords.com/talks/web_design_first_100_years.htm), Maciej Cegłowski
 
