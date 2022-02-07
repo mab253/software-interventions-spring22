@@ -9,3 +9,5 @@ Write a new post on your Glitch class log. In this post, choose 2 ideas that you
 For 1 of these ideas, how might the ideas in the [Critical Engineering Manifesto](https://criticalengineering.org/) relate to how you approach your project? Choose 1 of the items from the Manifesto and write about it in relation to 1 of your project ideas. 
 
 For the other idea, what are some examples of event-driven functions that could operate within your design? Try and list at least 3.
+
+* also - did you want to customize your 11ty site a little bit more?
