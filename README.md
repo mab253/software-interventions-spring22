@@ -63,7 +63,7 @@ going through syllabus (hello!), intros to each other, & "do no harm"
   - [It's not all lightbulbs](https://aeon.co/essays/most-of-the-time-innovators-don-t-move-fast-and-break-things), W. Patrick McCray
 
 for next class: \
-**Assignment:** Write project log post #1
+**Assignment:** Write project log post #1 [info/instructions here](https://github.com/mab253/software-interventions-spring22/blob/main/assignments/week2.md)
 
 ---
 
