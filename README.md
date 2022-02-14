@@ -143,6 +143,8 @@ for next class: \
   - "Resource One" from _Broad Band_, Claire Evans (will post pages)
   - on automation (will post)
 
+**Feedback: I will give feedback on your blog posts so far by this date**
+
 for next class: \
 **Assignment:** Write project log #4, prototype & project validation
 
