@@ -76,7 +76,7 @@ for next class: \
   - [Web Design: The First 100 Years](https://idlewords.com/talks/web_design_first_100_years.htm), Maciej Cegłowski
 
 for next class: \
-**Assignment:** Write project log post #2
+**Assignment:** Write project log post #2 [info/instructions here](https://github.com/mab253/software-interventions-spring22/blob/main/assignments/week3.md)
 
 **Additional References:**
 - [How I Experience Web Today](https://how-i-experience-web-today.com/) [click around & explore!]
