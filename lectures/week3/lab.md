@@ -11,7 +11,7 @@
 - 🦆 [Ethereal Email](https://ethereal.email/)
 - 📧 [Nodemailer](https://nodemailer.com/about/) module
 
-You'll use a Node module, or a pre-written open source block of code, to set up an e-mail sending function on your static blog site. You can use Ethereal e-mail to create a temporary "fake" test e-mail address.
+You'll use a Node module, or a pre-written open source block of code, to set up an e-mail-sending function on your static blog site. You can use Ethereal e-mail to create a temporary "fake" test e-mail address.
 
 ## suggested steps: (how can you divide this labor as a group?)
 
