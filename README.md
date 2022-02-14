@@ -91,7 +91,7 @@ for next class: \
 **Week 4: Feb. 21: NO CLASS MONDAY, HOLIDAY** \
 *Automated Communications, Political Implications* 
 
-- Asynchronous Lecture Video (will be posted; watch any day this week)
+- Asynchronous Lecture Video (will be posted by Tuesday 22nd in AM; watch any day this week)
 - video will include instructions on API experiment assignment
 
 **Readings for the week:** 
