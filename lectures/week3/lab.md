@@ -3,7 +3,7 @@
 
 ## goals:
 - create a button on a static website that sends an e-mail
-- set up a Node.js environment in Glitch that can send and receive data
+- set up a Node.js environment in Glitch that can receive and send data
 - work together and collaboratively 
 
 ## tools:
