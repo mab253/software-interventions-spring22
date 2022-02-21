@@ -112,8 +112,6 @@ for next class: \
 
 **Readings due today:** 
 - ["Of Being Numerous"](https://reallifemag.com/of-being-numerous/), Natasha Lennard, _Real Life_
-- "Introduction" from _Glitch Feminism_, Legacy Russell (will post pages)
-- video, from Theorizing the Web conference (will post)
 
 for next class: \
 **Assignment:** Write project log #3
@@ -127,6 +125,7 @@ for next class: \
 
 - mutual aid tech zine (will post)
 - video, from Theorizing the Web conference (will post)
+- "Introduction" from _Glitch Feminism_, Legacy Russell (will post pages)
 
 for next class: \
 **Assignment:** simplest project prototypes
