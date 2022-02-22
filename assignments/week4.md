@@ -23,7 +23,7 @@ This project will be a basic prototype for a polling/voting app, an SMS chatbot 
 
 **in Node.js, SEND SMS:**
 1. Check out your `.env` file - there should be a list of variables that you need, but they'll be empty. Input the correct values from your Twilio console. 
-2. For TO_NUMBER, this needs to be the phone number you used to verify your Twilio account. On the free trial versions we are playing with, we can only send SMS to this number. This should be in the same format as the new Twilio phone number: +15555555555 for example.
+2. For `TO_NUMBER`, this needs to be the phone number you used to verify your Twilio account. On the free trial versions we are playing with, we can only send SMS to this number. This should be in the same format as the new Twilio phone number: +15555555555 for example. Twilio just needs [this formatting, called e.164](https://www.twilio.com/docs/glossary/what-e164).
 3. Check out `package.json` to see what dependencies are already installed. You should have everything you need.
 4. Find `server.js` - we want to write our first function, to send our SMS when the function is called. Look for a function called `/send-sms`.
 5. Where the comments suggest, you'll want to write the code to send an outbound SMS! See [this documentation](https://www.twilio.com/docs/sms/quickstart/node#send-an-outbound-sms-message-with-nodejs) for guidance.
