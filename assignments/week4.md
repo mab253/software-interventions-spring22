@@ -77,5 +77,5 @@ if (incoming === 'yes') {
 ### to finish:
 
 1. Leave your new post up on your static site blog - I will check out the button.
-2. If this didn't work for you after trying for awhile, that is ok - how far did you get? Where would you continue debugging? What was difficult?
+2. If this didn't work for you after trying for awhile - how far did you get? Where would you continue debugging? What was difficult? What was clear to you?
 3. Under the button, write at least 2 completely new project ideas using telecommunications (you can imagine doing similar things with voice, video, etc.).  If you need project inspirations, check out the [Twilio blog](https://www.twilio.com/blog). These can just be short sentence brainstorms.
