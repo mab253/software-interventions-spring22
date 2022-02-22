@@ -25,7 +25,7 @@ This project will be a basic prototype for a polling/voting app, an SMS chatbot 
 1. Check out your `.env` file - there should be a list of variables that you need, but they'll be empty. Input the correct values from your Twilio console. 
 2. Find `server.js` - we want to write our first function, to send our SMS when the function is called. Look for a function called `/send-sms`.
 3. Where the comments suggest, you'll want to write the code to send an outbound SMS! See [this documentation](https://www.twilio.com/docs/sms/quickstart/node#send-an-outbound-sms-message-with-nodejs) for guidance.
-4. For the content of your SMS message, ask your 'user' a question. What is this poll about, what are they voting on? Is this a silly survey, a quiz? For example, "Do you agree with the following statement: cats rule the internet?"
+4. For the content of your SMS message, ask your 'user' a question. What is this poll about, what are they voting on? Is this a survey, a quiz? What data are you collecting? For example, "Do you agree with the following statement: cats rule the internet?"
 
 **let's call this function, from static site:**
 
