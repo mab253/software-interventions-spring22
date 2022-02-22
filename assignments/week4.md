@@ -16,18 +16,18 @@ This project will be a basic prototype for a polling/voting app, an SMS chatbot 
 
 **setup:**
 
-1. [Remix this Glitch project](https://glitch.com/edit/#!/blushing-rose-turnover) and take a look around. This Node project will act like your server.
+1. [Remix this Glitch project](https://glitch.com/edit/#!/blushing-rose-turnover) and take a look around. This Node project will act like your server, where you will write functions that program your new Twilio phone number.
 2. Get a free account at [Twilio.com](https://twilio.com) - click "Sign up." You'll need to verify your e-mail address and a phone number - either your real one, or something like [Google Voice](https://voice.google.com), or use the temporary numbers on [this website](https://receive-sms-free.cc/).
 3. Choose a new Twilio phone number! This is the number we are going to program. (You will see that you have $15 balance for free in your trial account - it will not cost money to "buy" this trial phone number.)
 4. Get familiar with the [Twilio console](https://twilio.com/console). You should see an Accound SID, an Auth Token, and your new Twilio phone number listed under "Account Info."
 
 **in Node.js, SEND SMS:**
-1. Check out your `.env` file - there should be a list of variables that you need, but they'll be empty. Input the correct values from your Twilio console.
+1. Check out your `.env` file - there should be a list of variables that you need, but they'll be empty. Input the correct values from your Twilio console. 
 2. Find `server.js` - we want to write our first function, to send our SMS when the function is called. Look for a function called `/send-sms`.
 3. Where the comments suggest, you'll want to write the code to send an outbound SMS! See [this documentation](https://www.twilio.com/docs/sms/quickstart/node#send-an-outbound-sms-message-with-nodejs) for guidance.
-4. For the content of your SMS message, ask your 'user' a question.  
+4. For the content of your SMS message, ask your 'user' a question. What is this poll about, what are they voting on? Is this a silly survey, a quiz? For example, "Do you agree with the following statement: cats rule the internet?"
 
-**let's call this function, in static site:**
+**let's call this function, from static site:**
 
 1. Open your Glitch static site, your project log. Create a new post, and add a button to it.  Your button should call a Javascript function that looks something like this:
 ```
@@ -46,16 +46,16 @@ This project will be a basic prototype for a polling/voting app, an SMS chatbot 
   }
 </script>
 ```
-2. Test your function by pressing the button! What do you see in your server's logs? Do you receive an SMS?
+2. Test your function by pressing the button! What do you see in your server's logs? Do you receive an SMS at your phone number?
 
 **in Node.js, RECEIVE SMS:**
 1. Now we want to write a function that runs whenever our number _receives_ an SMS. Go back to `server.js` in your Node project, and find the function called `/reply-sms`.
 2. What's going on in this function? There are some instructions in the comments. We basically are able to understand the incoming message, and we want to respond conditionally.  For example: 
 ```
-if (incoming === 'something') {
-  responseMessage = 'text A!';
+if (incoming === 'yes') {
+  responseMessage = 'I agree too!';
  } else {
-  responseMessage = 'text B!';
+  responseMessage = 'I guess we don't agree.';
  }
  ```
  3. How do we get this function to work? We have to connect it to our Twilio phone number. We can use a command line (Terminal) tool to do this.
