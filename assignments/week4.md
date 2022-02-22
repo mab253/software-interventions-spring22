@@ -60,7 +60,7 @@ if (incoming === 'something') {
  ```
  3. How do we get this function to work? We have to connect it to our Twilio phone number. We can use a command line (Terminal) tool to do this.
  4. Open Terminal again, and type: `twilio login`. Where can you find the Account SID and Auth token info they are asking for?
- 5. After you've logged in, you can type:
+ 5. After you've logged in and created your profile via the Terminal, you can type:
  ```
  twilio phone-numbers:update "+1TWILIONUMBER" --sms-url="https://your-glitch-project.glitch.me/reply-sms"
  ```
