@@ -138,13 +138,11 @@ for next class: \
 **Week 7: Mar. 14** \
 *Unblocking the System: Automations and Chatbots*
 
-**FEEDBACK POINT 1: project logs will receive feedback today**
-
 **Readings due today:** 
   - "Resource One" from _Broad Band_, Claire Evans (will post pages)
   - on automation (will post)
 
-**Feedback: I will give feedback on your blog posts so far by this date**
+**Feedback Point 1: I will give feedback on your blog posts so far by this date**
 
 for next class: \
 **Assignment:** Write project log #4, prototype & project validation
