@@ -66,7 +66,7 @@ if (incoming === 'yes') {
  ```
  twilio phone-numbers:update "+1TWILIONUMBER" --sms-url="https://your-glitch-project.glitch.me/reply-sms"
  ```
- This connects your new Twilio number to the function you just wrote. 
+ You'll need to replace "+1TWILIONUMBER" with your new Twilio number, and the URL with your `server.js` project's address. This connects your new Twilio number to the function you just wrote. 
  
  **putting it all together!**
  1. Keep your Glitch Node server.js project open - you'll want to look at your logs.
