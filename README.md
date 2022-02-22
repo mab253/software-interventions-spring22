@@ -138,6 +138,8 @@ for next class: \
 **Week 7: Mar. 14** \
 *Unblocking the System: Automations and Chatbots*
 
+**FEEDBACK POINT 1: project logs will receive feedback today**
+
 **Readings due today:** 
   - "Resource One" from _Broad Band_, Claire Evans (will post pages)
   - on automation (will post)
@@ -242,6 +244,7 @@ for next class: \
 ---
 
 ## key dates
+- March 14th, feedback point on project logs (professor to share feedback)
 - March 21st, share ideas-in-progress for final, feedback workshop
 - April 4th, team (or solo) formation for final and project topic, due by end of class 
 - May 16th, final project workshop
