@@ -91,8 +91,8 @@ for next class: \
 **Week 4: Feb. 21: NO CLASS MONDAY, HOLIDAY** \
 *Automated Communications, Political Implications* 
 
-- Asynchronous Lecture Video (will be posted by Tuesday 22nd in AM; watch any day this week)
-- video will include instructions on API experiment assignment
+- Asynchronous [Lecture Video](https://www.loom.com/share/8ecdbea17dc740de94b9d2a9c8c3bfdb) here - watch any day this week (1 hr)
+- video includes help on [API experiment assignment](https://github.com/mab253/software-interventions-spring22/blob/main/assignments/week4.md) (should also take approx. 1 hr)
 
 **Readings for the week:** 
 - ["The app that broke the Iowa Caucuses was sent out through beta testing platforms"](https://www.theverge.com/2020/2/4/21122737/iowa-democractic-caucus-voting-app-android-testfairy-screenshots-app-store), N. Statt, _The Verge_
@@ -100,7 +100,7 @@ for next class: \
 - [WhatsApp’s Influence in the Brazilian Election and How It Helped Jair Bolsonaro Win](https://www.cfr.org/blog/whatsapps-influence-brazilian-election-and-how-it-helped-jair-bolsonaro-win), Caio C. V. Machado _CFR Blog_
 
 for next class: \
-**Assignment:** communications API experiment 
+**Assignment:** communications API experiment [info/instructions here](https://github.com/mab253/software-interventions-spring22/blob/main/assignments/week4.md)
 
 **Additional References:** 
 - [Computational Power: Automated Use of WhatsApp in the Elections](https://feed.itsrio.org/computational-power-automated-use-of-whatsapp-in-the-elections-59f62b857033), ITS - Rio de Janeiro 
