@@ -16,7 +16,7 @@ This project will be a basic prototype for a polling/voting app, an SMS chatbot 
 
 **setup:**
 
-1. [Remix this Glitch project](https://glitch.com/edit/#!/blushing-rose-turnover) and take a look around. This Node project will act like your server, where you will write functions that program your new Twilio phone number.
+1. <a href="https://glitch.com/edit/#!/blushing-rose-turnover" target="blank">Remix this Glitch project</a> and take a look around. This Node project will act like your server, where you will write functions that program your new Twilio phone number.
 2. Get a free account at [Twilio.com](https://twilio.com) - click "Sign up." You'll need to verify your e-mail address and a phone number - either your real one, or something like [Google Voice](https://voice.google.com), or use the temporary numbers on [this website](https://receive-sms-free.cc/).
 3. Choose a new Twilio phone number! This is the number we are going to program. (You will see that you have $15 balance for free in your trial account - it will not cost money to "buy" this trial phone number.)
 4. Get familiar with the [Twilio console](https://twilio.com/console). You should see an Accound SID, an Auth Token, and your new Twilio phone number listed under "Account Info."
