@@ -3,7 +3,7 @@
 - [TwilioQuest](https://www.twilio.com/quest), game to learn the API and Javascript basics
 - [Twilio Blog](https://www.twilio.com/blog), examples of tutorials and projects
 - [Writing Metal Lyrics](https://www.twilio.com/blog/lyrics-javascript-openai-gpt3-twilio-functions): Twilio + ML project
-- [Twilio Runtime](https://www.twilio.com/docs/runtime), to dig more into the serverless functions environment (_not_ coding on a Node.js server with Glitch, but using Twilio-only infrastructure, event-driven functions)
+- [Twilio Runtime](https://www.twilio.com/docs/runtime), to dig more into the serverless functions environment (_not_ coding on a Node.js server with Glitch, but using Twilio-only infrastructure, event-driven functions, FaaS ["functions as a service"])
 
 **fun/free APIs:**
 
@@ -12,4 +12,4 @@
 
 **other tools:**
 
-- [receive-sms-free.cc](https://receive-sms-free.cc/), free temporary phone numbers - *not super consistent!*
+- [receive-sms-free.cc](https://receive-sms-free.cc/), free temporary phone numbers - *not super consistent, but can be a helpful tool!*
