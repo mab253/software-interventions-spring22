@@ -114,7 +114,7 @@ for next class: \
 - ["Of Being Numerous"](https://reallifemag.com/of-being-numerous/), Natasha Lennard, _Real Life_
 
 for next class: \
-**Assignment:** Write project log #3
+**Assignment:** Write project log #3 [info/instructions here](https://github.com/mab253/software-interventions-spring22/blob/main/assignments/week5.md)
 
 ---
 
