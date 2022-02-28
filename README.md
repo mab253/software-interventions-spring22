@@ -123,8 +123,7 @@ for next class: \
 
 **Readings due today:** 
 
-- mutual aid tech zine (will post)
-- video, from Theorizing the Web conference (will post)
+- "How to Start An Indigenous Mutual Aid COVID-19 Relief Project" [(text here)](https://mutualaiddisasterrelief.org/wp-content/uploads/2021/04/Indigenous-Mutual-Aid-Zine-IMPOSED-PRINT.pdf)
 - "Introduction" from _Glitch Feminism_, Legacy Russell (will post pages)
 
 for next class: \
@@ -141,6 +140,7 @@ for next class: \
 **Readings due today:** 
   - "Resource One" from _Broad Band_, Claire Evans (will post pages)
   - on automation (will post)
+  - video, from Theorizing the Web conference (will post)
 
 **Feedback Point 1: I will give feedback on your blog posts so far by this date**
 
