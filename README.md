@@ -124,8 +124,7 @@ for next class: \
 **Readings due today:** 
 
 - "Mutual Aid Disaster Relief: Lessons Learned" [(text here)](https://mutualaiddisasterrelief.org/wp-content/uploads/2020/06/madr-lessons-learned.pdf)
-- "What Mutual Aid Can Do During a Pandemic," Tolentino _New Yorker_ [text here](https://www.newyorker.com/magazine/2020/05/18/what-mutual-aid-can-do-during-a-pandemic)
-
+- "[What Mutual Aid Can Do During a Pandemic](https://www.newyorker.com/magazine/2020/05/18/what-mutual-aid-can-do-during-a-pandemic)," Tolentino _New Yorker_ 
 for next class: \
 **Assignment:** simplest project prototypes
 
