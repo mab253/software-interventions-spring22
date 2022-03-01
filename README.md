@@ -124,7 +124,8 @@ for next class: \
 **Readings due today:** 
 
 - "How to Start An Indigenous Mutual Aid COVID-19 Relief Project" [(text here)](https://mutualaiddisasterrelief.org/wp-content/uploads/2021/04/Indigenous-Mutual-Aid-Zine-IMPOSED-PRINT.pdf)
-- "Introduction" from _Glitch Feminism_, Legacy Russell (will post pages)
+- "How to DiscoTech", p. 1-23 [text here](https://detroitcommunitytech.org/system/tdf/librarypdfs/how-to-discotech.pdf)
+- "What Mutual Aid Can Do During a Pandemic," Tolentino _New Yorker_ [text here](https://www.newyorker.com/magazine/2020/05/18/what-mutual-aid-can-do-during-a-pandemic)
 
 for next class: \
 **Assignment:** simplest project prototypes
