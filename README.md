@@ -123,8 +123,7 @@ for next class: \
 
 **Readings due today:** 
 
-- "How to Start An Indigenous Mutual Aid COVID-19 Relief Project" [(text here)](https://mutualaiddisasterrelief.org/wp-content/uploads/2021/04/Indigenous-Mutual-Aid-Zine-IMPOSED-PRINT.pdf)
-- "How to DiscoTech", p. 1-23 [text here](https://detroitcommunitytech.org/system/tdf/librarypdfs/how-to-discotech.pdf)
+- "Mutual Aid Disaster Relief: Lessons Learned" [(text here)](https://mutualaiddisasterrelief.org/wp-content/uploads/2020/06/madr-lessons-learned.pdf)
 - "What Mutual Aid Can Do During a Pandemic," Tolentino _New Yorker_ [text here](https://www.newyorker.com/magazine/2020/05/18/what-mutual-aid-can-do-during-a-pandemic)
 
 for next class: \
