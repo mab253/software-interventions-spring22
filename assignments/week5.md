@@ -6,7 +6,7 @@ _Note: these are log entries mainly for you, to keep track as you generate ideas
 
 Write a new post on your Glitch class log. Choose the 1 idea that you are most excited about this week - this can be entirely new, or one that you have written about before.
 
-- Return to our the idea of "do no harm," from the Hippocratic Oath and the Critical Engineering Manifesto. Knowing that many technologies are used in ways beyond their creators intended, can you think of a worst case scenario for your potential project? Who might be harmed, and how? What potential problems might this create in other systems (of people, of technologies, etc.) if something were to go wrong?
+- Return to our the idea of "do no harm," from the Hippocratic Oath and the Critical Engineering Manifesto. Knowing that many technologies are used in ways beyond their creators intended, can you think of a worst case scenario for your potential project? Who might be harmed, and how? What potential problems might this create in other systems (of people, of technologies, etc.) if something were to go wrong? What could happen if your project went to scale?
 - Can you think of a creative, positive use for your tool besides your original intention?
 - Include another visual for your log: this could be another sketch of a system diagram, another image of someone who might use your tool or a place where your software might be used, another image that reminds you of your project, etc. 
 
