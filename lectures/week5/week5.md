@@ -4,6 +4,8 @@
 - Room 2: Anonymous hackers
 - Room 3: @RUOligarchJets, @PutinJet
 
+**Please look for multiple sources, cross check! A lot of misinformation out there.**
+
 Questions: 
 - What systems are in play here, how is the technology trying to intervene?
 - What technologies are people using and possibly subverting? How are they doing this?
