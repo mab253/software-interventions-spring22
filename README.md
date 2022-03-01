@@ -124,7 +124,9 @@ for next class: \
 **Readings due today:** 
 
 - "Mutual Aid Disaster Relief: Lessons Learned" [(text here)](https://mutualaiddisasterrelief.org/wp-content/uploads/2020/06/madr-lessons-learned.pdf)
-- "[What Mutual Aid Can Do During a Pandemic](https://www.newyorker.com/magazine/2020/05/18/what-mutual-aid-can-do-during-a-pandemic)," Tolentino _New Yorker_ 
+- ["What Mutual Aid Can Do During a Pandemic"](https://www.newyorker.com/magazine/2020/05/18/what-mutual-aid-can-do-during-a-pandemic), Tolentino _New Yorker_ 
+- ["Paper Prototyping as A Usability Testing Technique"](https://usabilitygeek.com/paper-prototyping-as-a-usability-testing-technique/) 
+
 for next class: \
 **Assignment:** simplest project prototypes
 
