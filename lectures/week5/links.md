@@ -1,3 +1,4 @@
+## some extra resources and links
 **as discussed in class:**
 - [White Collar Crime Risk Zones](https://whitecollar.thenewinquiry.com/), map + interactive data visualization
 - [scanmap.mobi](https://scanmap.mobi/), crowdsourced police tracker/scanner project
