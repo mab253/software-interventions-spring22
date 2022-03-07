@@ -139,7 +139,7 @@ for next class: \
 *Unblocking the System: Automations and Chatbots*
 
 **Readings due today:** 
-  - "Resource One" from _Broad Band_, Claire Evans (will post pages)
+  - "Resource One" from _Broad Band_, Claire Evans, p. 95-108 [pdf here[(https://raw.githubusercontent.com/mab253/software-interventions-spring22/main/readings/BroadBand-Evants_ResourceOne.pdf)
   - on automation (will post)
   - video, from Theorizing the Web conference (will post)
 
