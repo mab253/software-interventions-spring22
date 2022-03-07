@@ -4,7 +4,7 @@ In your group, design a tech-enabled system that facilitates connection at the n
 
 Let's imagine that refugees who need resettlement arrive where you live in NYC - in fact, this happens everyday. For this design sprint, we will imagine a scenario where many people come in need at the same time, **and** that there are groups of people in your neighborhood who are rallying and volunteer to house them, _or offer other help directly_, temporarily or permanently.
 
-What software can you build that helps connect people in this situation? What tools will you need to build this? You will present your solution as a group at the end of class.
+What software can you build that helps connect people in this situation? What tools will you need to build this? You will present your potential solution as a group at the end of class.
 
 **NOTE:** you are encouraged to be creative! What do you want to build based on what you imagine peoples' needs might be?
 
