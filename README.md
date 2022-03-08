@@ -128,7 +128,7 @@ for next class: \
 - ["Paper Prototyping as A Usability Testing Technique"](https://usabilitygeek.com/paper-prototyping-as-a-usability-testing-technique/) 
 
 for next class: \
-**Assignment:** simplest project prototypes
+**Assignment:** simplest project prototypes, [info/instructions here](https://github.com/mab253/software-interventions-spring22/blob/main/assignments/week6.md)
 
 **Additional Resources:** 
 - [Hacking and Hustling, Disorganizing Toolkit](https://hackinghustling.org/research-2/disorganizing-toolkit/)
