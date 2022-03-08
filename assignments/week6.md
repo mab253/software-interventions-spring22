@@ -6,7 +6,7 @@ _Note: these are log entries mainly for you, to keep track as you generate ideas
 
 Choose the 1 idea that you are most excited about this week - this can be entirely new, or one that you have written about before. 
 
-- Create a _very simple_ prototype for your idea; the main goal here is to have some sort of visual aid to show someone and to help explain your project. Simplicity is the idea here - you can create a "[paper prototype](https://usabilitygeek.com/paper-prototyping-as-a-usability-testing-technique/)," or you can create a very simple webpage. You could make a short video with lego blocks showing the interlocking pieces of your system, you could get your friends to act out your software system, etc. etc.  Paper prototypes work great though! 
+- Create a _very simple_ prototype for your idea; the main goal here is to have some sort of visual aid to show someone and to help explain your project. Simplicity is the idea here - you can create a "[paper prototype](https://usabilitygeek.com/paper-prototyping-as-a-usability-testing-technique/)," or you can create a very simple webpage. You could make a short video with lego blocks showing the interlocking pieces of your system, etc. etc.  Paper prototypes and sketches work great though! 
 - It can be in any form that works for you - show us part of your system, from the perspective of what a user would see.
 - Create a post on your Glitch log that documents your work on this prototype.
 
