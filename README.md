@@ -141,7 +141,7 @@ for next class: \
 **Readings due today:** 
   - "Resource One" from _Broad Band_, Claire Evans, p. 95-108 [pdf here](https://raw.githubusercontent.com/mab253/software-interventions-spring22/main/readings/BroadBand-Evants_ResourceOne.pdf)
   - on automation (will post)
-  - video, from Theorizing the Web conference (will post)
+  - "The Invisible Labor of the Web - Artificial Intelligence is Made Possible by an Undervalued Workforce", Sarah Adams, from _Theorizing the Web_ conference (2018) [video here](https://livestream.com/accounts/9198012/events/8578391/videos/190020664) - watch from 18:55 - 28:23
 
 **Feedback Point 1: I will give feedback on your blog posts so far by this date**
 
