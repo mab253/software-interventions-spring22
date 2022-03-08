@@ -10,6 +10,7 @@ Choose the 1 idea that you are most excited about this week - this can be entire
 - It can be in any form that works for you - show us part of your system, from the perspective of what a user would see.
 - Create a post on your Glitch log that documents your work on this prototype, with images.
 
+some ideas for inspiration:
 - [more paper prototype inspiration](https://www.youtube.com/watch?v=y20E3qBmHpg), video
 - [cardboard prototype inspiration](https://www.youtube.com/watch?v=k_9Q-KDSb9o), video
 
