@@ -8,7 +8,10 @@ Choose the 1 idea that you are most excited about this week - this can be entire
 
 - Start working on a _very simple_ prototype for your idea; the main goal here is to have some sort of visual aid to show someone and to help explain your project. Simplicity is the idea here - you can create a "[paper prototype](https://usabilitygeek.com/paper-prototyping-as-a-usability-testing-technique/)," or you can create a very simple webpage. You could make a short video with lego blocks showing the interlocking pieces of your system, etc. etc.  Paper prototypes and sketches work great though! 
 - It can be in any form that works for you - show us part of your system, from the perspective of what a user would see.
-- Create a post on your Glitch log that documents your work on this prototype.
+- Create a post on your Glitch log that documents your work on this prototype, with images.
+
+- [more paper prototype inspiration](https://www.youtube.com/watch?v=y20E3qBmHpg), video
+- [cardboard prototype inspiration](https://www.youtube.com/watch?v=k_9Q-KDSb9o), video
 
 **THINKING AHEAD:**
 
@@ -16,7 +19,3 @@ Testing your ideas with users who would _actually_ use what you've created is ve
 
 also - did you want to customize your 11ty site a little bit more? optional!
 
-**How to add images to your blog:**
-
-- Upload your file to the [Glitch assets folder](https://help.glitch.com/kb/article/43-adding-assets/), and copy the URL of the uploaded image.
-- You can use [Markdown](https://help.glitch.com/kb/article/43-adding-assets/) in these blog posts, or HTML `<img>` tags to display your image.
