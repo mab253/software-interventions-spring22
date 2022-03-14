@@ -11,7 +11,9 @@ Choose the 1 idea that you worked on with your prototype, the same as last week.
 - Use your prototype from last week to help explain your idea to them.
 - Have a conversation that is @ least 30 minutes. 
 - Create a new post for your Glitch log. Share some documentation of your interview notes (respecting the privacy of the person who you spoke with), and write 1 paragraph about what you learned during the interview.
-- Remember: this is a qualitative interview; listen to their ideas and experiences, and think later about how their insights affect your project
+- Remember: this is a qualitative interview, and should not feel like "grilling" or a "quiz"; listen to their ideas and experiences, and think later about how their insights affect your project
+
+See slides [here](https://github.com/mab253/software-interventions-spring22/blob/main/lectures/week7/Week%207%20Automations%20%26%20Chatbots.pdf) #23-25 for sample questions and more direction.
 
 **THINKING AHEAD:**
 
