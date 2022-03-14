@@ -146,7 +146,7 @@ for next class: \
 **Feedback Point 1: I will give feedback on your blog posts so far by this date**
 
 for next class: \
-**Assignment:** Write project log #4, prototype & project validation
+**Assignment:** Write project log #4, project validation, [info/instructions here](https://github.com/mab253/software-interventions-spring22/blob/main/assignments/week7.md)
 
 ---
 
