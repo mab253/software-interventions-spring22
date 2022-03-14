@@ -12,3 +12,7 @@
 **Node.js Proxy Server:**
 
 - you could make one in Glitch; Twilio has a helpful quick [tutorial](https://www.twilio.com/blog/node-js-proxy-server)
+
+**JSON Web Tokens:**
+
+- [jwt.io](https://jwt.io/)
