@@ -20,4 +20,8 @@
 **Unlock NYC:**
 
 - [website](https://weunlock.nyc)
-- [Blue Ridge Labs](https://labs.robinhood.org/), research tech/social impact incubator. They accept fellows and also 
+- [Blue Ridge Labs](https://labs.robinhood.org/), research tech/social impact incubator. They accept applications for fellows and also have "Catalyst" grants to fund already-formed teams and ideas.
+
+**Film clips:**
+
+- were from _Desk Set_, 1957 ([Wikipedia](https://en.wikipedia.org/wiki/Desk_Set))
