@@ -162,7 +162,9 @@ for next class: \
 *Automation Revisited; Project Work Day*
 
 **Readings due today:** 
-  - TBD
+  - "The Education of a Computer," Grace Hopper
+  - from _The Mythical Man-Month_, Frederick Brooks Jr., p. 3-26
+  - from _Bullshit Jobs_, David Graeber, p. 6-9 and p. 188-193
 
 for next class: \
 **Assignment:** Finalize project topic and group (if collaborating)  
