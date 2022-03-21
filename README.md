@@ -154,7 +154,7 @@ for next class: \
 *Project Ideas Feedback Workshop*
  
 for next class: \
-**Assignment:** Write project log #5
+**Assignment:** Write project log #5, [info/instructions here](https://github.com/mab253/software-interventions-spring22/blob/main/assignments/week8.md)
 
 ---
 
