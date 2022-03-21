@@ -162,9 +162,9 @@ for next class: \
 *Automation Revisited; Project Work Day*
 
 **Readings due today:** 
-  - "The Education of a Computer," Grace Hopper
-  - from _The Mythical Man-Month_, Frederick Brooks Jr., p. 3-26
-  - from _Bullshit Jobs_, David Graeber, p. 6-9 and p. 188-193
+  - "[The Education of a Computer](https://github.com/mab253/software-interventions-spring22/blob/main/readings/Hopper%20-%20Education%20of%20a%20Computer.pdf)," Grace Hopper
+  - from _The Mythical Man-Month_, Frederick Brooks Jr., p. 3-26 (on [archive.org](https://ia600605.us.archive.org/32/items/MythicalManMonth/Brooks%201974%20The%20Mythical%20Man-Month-%20Essays%20on%20Software%20Engineering%2C%20Anniversary%20Edition%20%282nd%20Edition%29.pdf))
+  - from _Bullshit Jobs_, David Graeber, p. 6-9 and p. 188-193, [text here](https://theanarchistlibrary.org/library/david-graeber-bullshit-jobs.pdf)
 
 for next class: \
 **Assignment:** Finalize project topic and group (if collaborating)  
