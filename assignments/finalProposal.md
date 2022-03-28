@@ -14,8 +14,7 @@ due: Friday May 20th, 12pm EST
 ### Problem Space
 - Tell us what you have researched and learned about the problem domain
 - First give us the big picture, then get very specific about the distinct issue you are trying to solve
-- Cite at least 2 sources
-- This section should be at least 500 words
+- Cite at least 2 sources; and this section should be at least 500 words
 
 ### Current Ecosystem
  - What other tools (if any) try to solve this problem, or aim to do similar things? Why are they lacking?
