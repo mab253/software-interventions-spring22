@@ -41,7 +41,7 @@ due: Friday May 20th, 12pm EST
 - Do you maybe need more interviews here, to accomplish this? 
 
 ### Do No Harm
-- Walk us through at least 1 worst case scenario related to your project's build or releast - is this about data security, mis-uses of the tool, a peril of automation, a problem of scale, etc.? Tell us that you have thought about this, and suggest that you will build with this in mind.
+- Walk us through at least 1 worst case scenario related to your project's build or release - is this about data security, mis-uses of the tool, a peril of automation, a problem of scale, etc.? Tell us that you have thought about this, and suggest that you will build with this in mind.
 - This section needs to be at least 300 words
 
 ### Work Plan
