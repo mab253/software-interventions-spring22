@@ -13,7 +13,7 @@ due: Friday May 20th, 12pm EST
 
 ### Problem Space
 - Tell us what you have researched and learned about the problem domain
-- First give us the big picture, then get very specific about the distinct issue you are trying to solve
+- First give us the big picture, then get very specific about the distinct issue you are working on
 - Cite at least 2 sources; and this section should be at least 500 words
 
 ### Current Ecosystem
@@ -28,7 +28,7 @@ due: Friday May 20th, 12pm EST
 ### Project Validation
 - Cite your interview, with at least 2 quotes or specific stories
 - Persuade us that this project is valuable to the users who need it most!
-- Do you maybe need more interviews here, to accomplish this? 
+- **Do you maybe need more interviews here, to accomplish this?**
 
 ### User
  - Who is your user? This should be greatly informed by project validation interview(s), not purely imagined.
