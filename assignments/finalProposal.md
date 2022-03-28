@@ -49,6 +49,7 @@ due: Friday May 20th, 12pm EST
 - What are your "system requirements"?
 - What tools will you utilize in order to build your project?
   - Get very specific here - if you are using a database, which one? What language will you be writing in? If you are using a pre-existing NLP algorithm, which one are you choosing and why? Are you using APIs to connect automations together?  
+  - Tell us briefly why you are choosing the tools that you are, when you have options.
 - Describe an order of operations for your build: where will you start, what steps will you take?
 
 ### System Diagram
