@@ -38,7 +38,7 @@ due: Friday May 20th, 12pm EST
 ### Project Validation
 - Cite your interview, with at least 2 quotes or specific stories
 - Persuade us that this project is valuable to the users who need it most!
-- Do you need more interviews here?
+- Do you maybe need more interviews here, to accomplish this? 
 
 ### Do No Harm
 - Walk us through at least 1 worst case scenario related to your project's build or releast - is this about data security, mis-uses of the tool, a peril of automation, a problem of scale, etc.? Tell us that you have thought about this, and suggest that you will build with this in mind.
