@@ -46,7 +46,7 @@ due: Friday May 20th, 12pm EST
 
 ### Work Plan
 **NOTE:** While this does not have to be _the_ way that you are going to do it, this does have to be _one very clear way_ that you _could_ do it! Pivots happen. Your reader needs to know that you do have a plan for starting the work, even if it is not at all the plan you stick with.
-- What are your "system requirements"?
+- What are your "system requirements," unique constraints or necessities for your project's build? 
 - What tools will you utilize in order to build your project?
   - Get very specific here - if you are using a database, which one? What language will you be writing in? If you are using a pre-existing NLP algorithm, which one are you choosing and why? Are you using APIs to connect automations together?  
   - Tell us briefly why you are choosing the tools that you are, when you have options.
