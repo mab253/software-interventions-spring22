@@ -57,3 +57,6 @@ due: Friday May 20th, 12pm EST
 ### Final Media
 - This section is open to your creativity. You need to create 1 more piece of media to add to your proposal - is this a cleaned-up version of your paper prototype? Is this a clickable prototype? Is this a rendering of the user interface? Is this a series of photos that you have taken, showing your problem domain? Is this an audio recording of part of your validation user interviews? Is this a short video describing your pitch, or using a paper prototype? Is this an animation showing how part of your system works? 
 
+---
+optional: I will read a full draft (or finished section) of your proposal if I receive it with your questions by **May 10th.**
+
