@@ -29,7 +29,7 @@ due: Friday May 20th, 12pm EST
 ### User
  - Who is your imagined user? 
  - Be very, very specific - put us in their shoes, describe in detail their needs and how they come to your project
- - Walk us through 1 example of how they use your tool
+ - Walk us through 1 example of how they might use your tool
  - Address accessibility assumptions here
 
 ### User Map
