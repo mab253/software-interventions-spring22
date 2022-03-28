@@ -247,6 +247,7 @@ for next class: \
 - March 14th, feedback point on project logs (professor to share feedback)
 - March 21st, share ideas-in-progress for final, feedback workshop
 - April 4th, team (or solo) formation for final and project topic, due by end of class 
+- May 10th, I will read a draft of your final proposal if I receive it by this date
 - May 16th, final project workshop
 - May 20th, final project proposal due 
 
