@@ -1,4 +1,4 @@
-# final proposal 
+# 🤖📄 final proposal 
 
 due: Friday May 20th, 12pm EST 
 
