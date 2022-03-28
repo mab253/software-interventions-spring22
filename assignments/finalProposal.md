@@ -18,10 +18,10 @@ due: Friday May 20th, 12pm EST
 
 ### Current Ecosystem
  - What other tools (if any) try to solve this problem, or aim to do similar things? Why are they lacking?
- - How is your project intervening with current systems?
+ - How is your project going to intervene with current systems?
 
 ### Your Idea
- - Tell us precisely why your project is going to help in this domain
+ - Tell us precisely why you think your project is going to help in this domain - what are you automating?
  - This section needs to address why your project is innovative, new
  - Provide a very clear list of features
 
@@ -31,7 +31,7 @@ due: Friday May 20th, 12pm EST
 - Do you maybe need more interviews here, to accomplish this? 
 
 ### User
- - Who is your user? This should be greatly informed by project validation interview(s).
+ - Who is your user? This should be greatly informed by project validation interview(s), not purely imagined.
  - Be very, very specific - put us in their shoes, describe in detail their needs and how they come to your project
  - Walk us through 1 example of how they might use your tool
  - Address accessibility assumptions here
