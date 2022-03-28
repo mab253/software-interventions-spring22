@@ -176,9 +176,8 @@ for next class: \
 **PROJECT FORMATION (TOPIC/GROUP) DUE!**
 
 **Readings due today:** 
-  - from _Design Justice_, Sasha Constanza-Chock (will post pages)
-  - video from Eyebeam, Refiguring the Future (will post)
-  - video [garden.local](http://distributedweb.care/posts/gardenlocal/), Distributed Web of Care
+  - from _Design Justice_, Sasha Constanza-Chock, p. preface-9 & p. 70-101, [text here](https://library.oapen.org/bitstream/handle/20.500.12657/43542/external_content.pdf;jsessionid=9A9088DDB0F8457BBF74BA26DB22105B)
+  - video [garden.local](http://distributedweb.care/posts/gardenlocal/), Distributed Web of Care (Taeyoon Choi et. al) - watch video and read text below
 
 for next class: \
 **Assignment:** Write project log #6
