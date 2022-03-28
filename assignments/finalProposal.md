@@ -26,8 +26,13 @@ due: Friday May 20th, 12pm EST
  - This section needs to address why your project is innovative, new
  - Provide a very clear list of features
 
+### Project Validation
+- Cite your interview, with at least 2 quotes or specific stories
+- Persuade us that this project is valuable to the users who need it most!
+- Do you maybe need more interviews here, to accomplish this? 
+
 ### User
- - Who is your imagined user? 
+ - Who is your user? This should be greatly informed by project validation interview(s).
  - Be very, very specific - put us in their shoes, describe in detail their needs and how they come to your project
  - Walk us through 1 example of how they might use your tool
  - Address accessibility assumptions here
@@ -35,13 +40,8 @@ due: Friday May 20th, 12pm EST
 ### User Map
 - Where does your tool fit into the user's larger workflow, the larger system of the problem space?
 
-### Project Validation
-- Cite your interview, with at least 2 quotes or specific stories
-- Persuade us that this project is valuable to the users who need it most!
-- Do you maybe need more interviews here, to accomplish this? 
-
 ### Do No Harm
-- Walk us through at least 1 worst case scenario related to your project's build or release - is this about data security, mis-uses of the tool, a peril of automation, a problem of scale, etc.? Tell us that you have thought about this, and suggest that you will build with this in mind.
+- Walk us through at least 1 worst case scenario related to your project's build or release - is this about data security, mis-uses of the tool, a peril of automation, a problem of scale, a problem of exclusion, etc.? Tell us that you have thought about this, and suggest that you will build with this in mind.
 - This section needs to be at least 300 words
 
 ### Work Plan
