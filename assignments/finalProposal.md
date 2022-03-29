@@ -21,7 +21,7 @@ due: Friday May 20th, 12pm EST
  - How is your project going to intervene with current systems?
 
 ### Your Idea
- - Tell us precisely why you think your project is going to help in this domain - what are you automating?
+ - Tell us precisely why you think your project is going to help in this domain
  - This section needs to address why your project is innovative, new
  - Provide a very clear list of features
 
