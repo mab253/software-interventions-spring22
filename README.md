@@ -185,8 +185,9 @@ for next class: \
 *Blueprints, Systems, and Architectures*
 
 **Readings due today:** 
-  - Introduction from _Towards a New Architecture_, Le Courbusier (will post pages)
-  - on cybernetics, systems thinking, and serverless architecture (will post)
+  - from _Envisioning Information_, Edward Tufte, p. 1-35 ([text here](http://okhaos.com/tufte.pdf)
+  - [Drawing Good Architecture Diagrams](https://www.ncsc.gov.uk/blog-post/drawing-good-architecture-diagrams), National Cyber Security Centre UK
+  - IBM Case Study, Brooks Jr., p. 312-329 ([text here](https://doc.lagout.org/science/0_Computer%20Science/4_Theory%20of%20Computation/Design/The%20Design%20of%20Design%20-%20Essays%20from%20a%20Computer%20Scientist.pdf)
 
 for next class: \
 **Assignment:** diagram assignment 
