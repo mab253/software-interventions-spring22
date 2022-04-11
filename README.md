@@ -190,7 +190,7 @@ for next class: \
   - IBM Case Study, Brooks Jr., p. 312-329 ([text here](https://doc.lagout.org/science/0_Computer%20Science/4_Theory%20of%20Computation/Design/The%20Design%20of%20Design%20-%20Essays%20from%20a%20Computer%20Scientist.pdf))
 
 for next class: \
-**Assignment:** diagram assignment 
+**Assignment:** diagram assignment [info/instructions here](https://github.com/mab253/software-interventions-spring22/blob/main/assignments/week11.md) 
 
 ---
 
