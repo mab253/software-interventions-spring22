@@ -203,7 +203,7 @@ for next class: \
 
 **Readings due today:** 
   - from Signal Blog: [the ecosystem is moving](https://signal.org/blog/the-ecosystem-is-moving/) 
-  - Bourdieu, TBD
+  - from Storj whitepaper, "[Decentralized Cloud Storage Network](https://www.storj.io/storjv3.pdf)", p. 1-26
 
 for next class: \
 **Assignment:** storage experiment
