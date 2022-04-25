@@ -206,7 +206,7 @@ for next class: \
   - from Storj whitepaper, "[Decentralized Cloud Storage Network](https://www.storj.io/storjv3.pdf)", p. 1-26
 
 for next class: \
-**Assignment:** storage experiment
+**Assignment:** Write project log #6 [info/instructions here](https://github.com/mab253/software-interventions-spring22/blob/main/assignments/week12.md)
 
 ---
 
