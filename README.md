@@ -214,7 +214,7 @@ for next class: \
 *Data Collection*
 
 **Readings due today:** 
-  - "Glitch Encrypts," from _Glitch Feminism_, Legacy Russell (will post pages) 
+  - "[Data Relations](https://logicmag.io/distribution/data-relations/)" in _Logic Magazine_, Salomé Viljoen 
   - video, Mimi Onuoha [!! Con Keynote, on Data](https://www.youtube.com/watch?v=zYpXdtWj7BY)  
 
 for next class: \
