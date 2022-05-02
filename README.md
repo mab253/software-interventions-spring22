@@ -224,6 +224,8 @@ for next class: \
 
 **Readings due today:** 
   - "[Hacking Security](https://logicmag.io/security/hacking-security/)", in _Logic Magazine_, Matt Goerzen, Gabriella Coleman 
+  - "[Security of JSON Web Tokens](https://cyberpolygon.com/materials/security-of-json-web-tokens-jwt/)", Cyber Polygon
+  - [Protonmail white paper](https://protonmail.com/docs/business-whitepaper.pdf), 2016
 
 for next class: \
 **Assignment:** Write project log #8
