@@ -217,16 +217,13 @@ for next class: \
   - "[Data Relations](https://logicmag.io/distribution/data-relations/)" in _Logic Magazine_, Salomé Viljoen 
   - video, Mimi Onuoha [!! Con Keynote, on Data](https://www.youtube.com/watch?v=zYpXdtWj7BY)  
 
-for next class: \
-**Assignment:** Write project log #7
-
 ---
 
 **Week 14: May 9** \
 *Data Security*
 
 **Readings due today:** 
-  - TBD 
+  - "[Hacking Security](https://logicmag.io/security/hacking-security/)", in _Logic Magazine_, Matt Goerzen, Gabriella Coleman 
 
 for next class: \
 **Assignment:** Write project log #8
