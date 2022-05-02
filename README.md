@@ -227,9 +227,6 @@ for next class: \
   - "[Security of JSON Web Tokens](https://cyberpolygon.com/materials/security-of-json-web-tokens-jwt/)", Cyber Polygon
   - [Protonmail white paper](https://protonmail.com/docs/business-whitepaper.pdf), 2016
 
-for next class: \
-**Assignment:** Write project log #8
-
 ---
 
 **Week 15: May 16** \
